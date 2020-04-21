@@ -1,8 +1,8 @@
-### Code generated in the Rocketseat Starter course.
+## Code generated in the Rocketseat Starter course.
 
-Reference: [Starter Course](https://skylab.rocketseat.com.br/journey/starter) 
+> Reference: [Starter Course](https://skylab.rocketseat.com.br/journey/starter) 
 
-Structure of course:
+### Structure of course:
 
 - [x] Curso JavaScript
     - [x] Introdução JavaScript    
