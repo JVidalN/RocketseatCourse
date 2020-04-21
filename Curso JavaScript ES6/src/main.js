@@ -312,3 +312,6 @@
 // console.log(somaFunction(1, 2));
 // console.log(somaRename(2, 2));
 // console.log(sub(4, 2));
+
+
+alert('Testando');
