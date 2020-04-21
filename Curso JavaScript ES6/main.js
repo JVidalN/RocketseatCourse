@@ -1,3 +1,4 @@
+// // // CONCEITOS
 // class List {
 //     constructor() {
 //         this.data = [];
@@ -298,3 +299,16 @@
 // const primiseAF = () => new Promise((resolve, reject) => resolve());
 
 // console.log(primiseAF());
+
+// // // WEBPACK SERVER
+
+// // TESTE DE CONFIGURAÇÃO DO WEBPACK and IMPORT/EXPORT
+// import { soma as somaRename, sub } from './funcoes';
+// //import mult, { soma as somaRename, sub } from './funcoes';
+// import * as funcoes from './funcoes';
+// import somaFunction from './soma';
+
+// console.log(funcoes.mult(3, 2));
+// console.log(somaFunction(1, 2));
+// console.log(somaRename(2, 2));
+// console.log(sub(4, 2));
