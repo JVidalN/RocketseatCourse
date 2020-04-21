@@ -1,4 +1,4 @@
-###Code generated in the Rocketseat Starter course.
+### Code generated in the Rocketseat Starter course.
 
 Reference: [Starter Course](https://skylab.rocketseat.com.br/journey/starter) 
 
@@ -46,54 +46,54 @@ Structure of course:
         - [x] Operadores rest/spread
         - [x] Template Literals
         - [x] Object Short Syntax
-    - [] Webpack Server    
+    - [ ] Webpack Server    
         - [x] Configurando Webpack
         - [x] Import/export
-        - [] Webpack dev server
-    - [] Async/await
-        - [] Async/await
-        - [] Configurando axios
-    - [] Aplicação com ES6+
-        - [] Estrutura e estilos
-        - [] Adicionar repositórios
-        - [] Render em tela
-        - [] Buscando da API
-        - [] Loading e error
-- [] NodeJS
-    - [] O que é API e NodeJS?
-    - [] Instalando NodeJS
-    - [] Criando estrutura
-    - [] Criando primeira rota
-    - [] Utilizando Nodemon
-    - [] Instalando MongoDB
-    - [] Conectando Database
-    - [] Criando model de produto
-    - [] Reestruturação de arquivos
-    - [] Utilizando o Insomnia
-    - [] Criação de registro
-    - [] CRUD
-    - [] Paginação da lista
-    - [] Adicionando CORS
-- [] ReactJS
-    - [] O que é ReactJS?
-    - [] Criando projeto
-    - [] O que são componentes?
-    - [] Criando Header
-    - [] Buscando produtos da API
-    - [] Armazenando no estado
-    - [] Listando produtos
-    - [] Página anterior/próxima
-    - [] Configurando navegação
-    - [] Navegando pro detalhe
-- [] React Native
-    - [] O que é React Native?
-    - [] Criando projeto
-    - [] O que são componentes?
-    - [] Configurando navegação
-    - [] Estilizando Header e StatusBar
-    - [] Buscando produtos da API
-    - [] Entendendo o estado
-    - [] Listando produtos
-    - [] Estilizando lista de produtos
-    - [] Scroll infinito com FlatList
-    - [] Detalhe com WebView
+        - [ ] Webpack dev server
+    - [ ] Async/await
+        - [ ] Async/await
+        - [ ] Configurando axios
+    - [ ] Aplicação com ES6+
+        - [ ] Estrutura e estilos
+        - [ ] Adicionar repositórios
+        - [ ] Render em tela
+        - [ ] Buscando da API
+        - [ ] Loading e error
+- [ ] NodeJS
+    - [ ] O que é API e NodeJS?
+    - [ ] Instalando NodeJS
+    - [ ] Criando estrutura
+    - [ ] Criando primeira rota
+    - [ ] Utilizando Nodemon
+    - [ ] Instalando MongoDB
+    - [ ] Conectando Database
+    - [ ] Criando model de produto
+    - [ ] Reestruturação de arquivos
+    - [ ] Utilizando o Insomnia
+    - [ ] Criação de registro
+    - [ ] CRUD
+    - [ ] Paginação da lista
+    - [ ] Adicionando CORS
+- [ ] ReactJS
+    - [ ] O que é ReactJS?
+    - [ ] Criando projeto
+    - [ ] O que são componentes?
+    - [ ] Criando Header
+    - [ ] Buscando produtos da API
+    - [ ] Armazenando no estado
+    - [ ] Listando produtos
+    - [ ] Página anterior/próxima
+    - [ ] Configurando navegação
+    - [ ] Navegando pro detalhe
+- [ ] React Native
+    - [ ] O que é React Native?
+    - [ ] Criando projeto
+    - [ ] O que são componentes?
+    - [ ] Configurando navegação
+    - [ ] Estilizando Header e StatusBar
+    - [ ] Buscando produtos da API
+    - [ ] Entendendo o estado
+    - [ ] Listando produtos
+    - [ ] Estilizando lista de produtos
+    - [ ] Scroll infinito com FlatList
+    - [ ] Detalhe com WebView
