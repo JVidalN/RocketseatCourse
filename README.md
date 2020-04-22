@@ -51,7 +51,7 @@
         - [x] Import/export
         - [x] Webpack dev server
     - [ ] Async/await
-        - [ ] Async/await
+        - [x] Async/await
         - [ ] Configurando axios
     - [ ] Aplicação com ES6+
         - [ ] Estrutura e estilos
