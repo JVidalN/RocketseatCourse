@@ -46,10 +46,10 @@
         - [x] Operadores rest/spread
         - [x] Template Literals
         - [x] Object Short Syntax
-    - [ ] Webpack Server    
+    - [x] Webpack Server    
         - [x] Configurando Webpack
         - [x] Import/export
-        - [ ] Webpack dev server
+        - [x] Webpack dev server
     - [ ] Async/await
         - [ ] Async/await
         - [ ] Configurando axios
