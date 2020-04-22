@@ -50,9 +50,9 @@
         - [x] Configurando Webpack
         - [x] Import/export
         - [x] Webpack dev server
-    - [ ] Async/await
+    - [x] Async/await
         - [x] Async/await
-        - [ ] Configurando axios
+        - [x] Configurando axios
     - [ ] Aplicação com ES6+
         - [ ] Estrutura e estilos
         - [ ] Adicionar repositórios
