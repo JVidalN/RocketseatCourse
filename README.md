@@ -53,12 +53,12 @@
     - [x] Async/await
         - [x] Async/await
         - [x] Configurando axios
-    - [ ] Aplicação com ES6+
-        - [ ] Estrutura e estilos
-        - [ ] Adicionar repositórios
-        - [ ] Render em tela
-        - [ ] Buscando da API
-        - [ ] Loading e error
+    - [x] Aplicação com ES6+
+        - [x] Estrutura e estilos
+        - [x] Adicionar repositórios
+        - [x] Render em tela
+        - [x] Buscando da API
+        - [x] Loading e error
 - [ ] NodeJS
     - [ ] O que é API e NodeJS?
     - [ ] Instalando NodeJS
