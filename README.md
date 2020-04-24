@@ -60,12 +60,12 @@
         - [x] Buscando da API
         - [x] Loading e error
 - [ ] NodeJS
-    - [ ] O que é API e NodeJS?
-    - [ ] Instalando NodeJS
-    - [ ] Criando estrutura
-    - [ ] Criando primeira rota
-    - [ ] Utilizando Nodemon
-    - [ ] Instalando MongoDB
+    - [x] O que é API e NodeJS?
+    - [x] Instalando NodeJS
+    - [x] Criando estrutura
+    - [x] Criando primeira rota
+    - [x] Utilizando Nodemon
+    - [x] Instalando MongoDB
     - [ ] Conectando Database
     - [ ] Criando model de produto
     - [ ] Reestruturação de arquivos
