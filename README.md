@@ -75,8 +75,8 @@
     - [x] Paginação da lista
     - [x] Adicionando CORS
 - [ ] ReactJS
-    - [ ] O que é ReactJS?
-    - [ ] Criando projeto
+    - [x] O que é ReactJS?
+    - [x] Criando projeto
     - [ ] O que são componentes?
     - [ ] Criando Header
     - [ ] Buscando produtos da API
