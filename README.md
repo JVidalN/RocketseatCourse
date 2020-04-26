@@ -59,21 +59,21 @@
         - [x] Render em tela
         - [x] Buscando da API
         - [x] Loading e error
-- [ ] NodeJS
+- [x] NodeJS
     - [x] O que é API e NodeJS?
     - [x] Instalando NodeJS
     - [x] Criando estrutura
     - [x] Criando primeira rota
     - [x] Utilizando Nodemon
     - [x] Instalando MongoDB
-    - [ ] Conectando Database
-    - [ ] Criando model de produto
-    - [ ] Reestruturação de arquivos
-    - [ ] Utilizando o Insomnia
-    - [ ] Criação de registro
-    - [ ] CRUD
-    - [ ] Paginação da lista
-    - [ ] Adicionando CORS
+    - [x] Conectando Database
+    - [x] Criando model de produto
+    - [x] Reestruturação de arquivos
+    - [x] Utilizando o Insomnia `*I Use Postman`
+    - [x] Criação de registro
+    - [x] CRUD
+    - [x] Paginação da lista
+    - [x] Adicionando CORS
 - [ ] ReactJS
     - [ ] O que é ReactJS?
     - [ ] Criando projeto
