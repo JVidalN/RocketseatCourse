@@ -79,7 +79,7 @@
     - [x] Criando projeto
     - [x] O que são componentes?
     - [x] Criando Header
-    - [ ] Buscando produtos da API
+    - [x] Buscando produtos da API
     - [ ] Armazenando no estado
     - [ ] Listando produtos
     - [ ] Página anterior/próxima
