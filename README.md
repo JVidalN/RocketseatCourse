@@ -77,8 +77,8 @@
 - [ ] ReactJS
     - [x] O que é ReactJS?
     - [x] Criando projeto
-    - [ ] O que são componentes?
-    - [ ] Criando Header
+    - [x] O que são componentes?
+    - [x] Criando Header
     - [ ] Buscando produtos da API
     - [ ] Armazenando no estado
     - [ ] Listando produtos
