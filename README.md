@@ -74,7 +74,7 @@ ad## Code generated in the Rocketseat Starter course.
     - [x] CRUD
     - [x] Paginação da lista
     - [x] Adicionando CORS
-- [ ] ReactJS
+- [x] ReactJS
     - [x] O que é ReactJS?
     - [x] Criando projeto
     - [x] O que são componentes?
@@ -84,7 +84,7 @@ ad## Code generated in the Rocketseat Starter course.
     - [x] Listando produtos
     - [x] Página anterior/próxima
     - [x] Configurando navegação
-    - [ ] Navegando pro detalhe
+    - [x] Navegando pro detalhe
 - [ ] React Native
     - [ ] O que é React Native?
     - [ ] Criando projeto
