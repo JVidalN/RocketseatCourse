@@ -83,7 +83,7 @@ ad## Code generated in the Rocketseat Starter course.
     - [x] Armazenando no estado
     - [x] Listando produtos
     - [x] Página anterior/próxima
-    - [ ] Configurando navegação
+    - [x] Configurando navegação
     - [ ] Navegando pro detalhe
 - [ ] React Native
     - [ ] O que é React Native?
