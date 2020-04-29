@@ -82,7 +82,7 @@ ad## Code generated in the Rocketseat Starter course.
     - [x] Buscando produtos da API
     - [x] Armazenando no estado
     - [x] Listando produtos
-    - [ ] Página anterior/próxima
+    - [x] Página anterior/próxima
     - [ ] Configurando navegação
     - [ ] Navegando pro detalhe
 - [ ] React Native
