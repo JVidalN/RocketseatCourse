@@ -1,4 +1,4 @@
-## Code generated in the Rocketseat Starter course.
+ad## Code generated in the Rocketseat Starter course.
 
 > Reference: [Starter Course](https://skylab.rocketseat.com.br/journey/starter) 
 
@@ -80,8 +80,8 @@
     - [x] O que são componentes?
     - [x] Criando Header
     - [x] Buscando produtos da API
-    - [ ] Armazenando no estado
-    - [ ] Listando produtos
+    - [x] Armazenando no estado
+    - [x] Listando produtos
     - [ ] Página anterior/próxima
     - [ ] Configurando navegação
     - [ ] Navegando pro detalhe
